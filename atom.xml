@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zisfeng.github.io</id>
+    <title>杍少风</title>
+    <updated>2021-03-18T00:18:43.816Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zisfeng.github.io"/>
+    <link rel="self" href="https://zisfeng.github.io/atom.xml"/>
+    <subtitle>山河没有时间，因为它们有的是时间。</subtitle>
+    <logo>https://zisfeng.github.io/images/avatar.png</logo>
+    <icon>https://zisfeng.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 杍少风</rights>
+    <entry>
+        <title type="html"><![CDATA[去]]></title>
+        <id>https://zisfeng.github.io/post/qu/</id>
+        <link href="https://zisfeng.github.io/post/qu/">
+        </link>
+        <updated>2021-03-18T00:05:13.000Z</updated>
+        <content type="html"><![CDATA[<p>按时</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蒙]]></title>
+        <id>https://zisfeng.github.io/post/meng/</id>
+        <link href="https://zisfeng.github.io/post/meng/">
+        </link>
+        <updated>2021-03-15T02:54:07.000Z</updated>
+        <content type="html"><![CDATA[<p>今儿的天黄蒙蒙的，像极了火星救援的画面感。<br>
+不知道是雾还是霾。不过我猜应该是霾吧，就 有一种怪怪的味道，飘浮。<br>
+窗外的风呼呼地吹着，卷着，夹杂着，<br>
+让人好不宁静......<img src="https://zisfeng.github.io/post-images/1615777526896.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猎杀]]></title>
+        <id>https://zisfeng.github.io/post/xi-sha/</id>
+        <link href="https://zisfeng.github.io/post/xi-sha/">
+        </link>
+        <updated>2021-03-13T12:45:52.000Z</updated>
+        <content type="html"><![CDATA[<p>就像电影里的猎杀<br>
+我终于等到这一天了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随想]]></title>
+        <id>https://zisfeng.github.io/post/sui-xiang/</id>
+        <link href="https://zisfeng.github.io/post/sui-xiang/">
+        </link>
+        <updated>2021-03-13T09:26:14.000Z</updated>
+        <content type="html"><![CDATA[<p>其乐无穷</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风影]]></title>
+        <id>https://zisfeng.github.io/post/feng-ying/</id>
+        <link href="https://zisfeng.github.io/post/feng-ying/">
+        </link>
+        <updated>2021-03-10T02:13:35.000Z</updated>
+        <content type="html"><![CDATA[<p>还算暖，可天空依然白雾蒙蒙。<br>
+近看，好像一切完备。<br>
+远看，隐隐与山，<br>
+高处不胜寒。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引自许嵩的“人狗比”]]></title>
+        <id>https://zisfeng.github.io/post/yin-zi-xu-song-de-ren-gou-bi/</id>
+        <link href="https://zisfeng.github.io/post/yin-zi-xu-song-de-ren-gou-bi/">
+        </link>
+        <updated>2021-03-03T15:57:42.000Z</updated>
+        <content type="html"><![CDATA[<p>地球上大概有10亿只狗，大概有70亿的人。<br>
+这么算下来的话，平均每七个人里就有一个是狗。<br>
+所以密度挺大的，在身边也无可厚非了啊。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[傍晚]]></title>
+        <id>https://zisfeng.github.io/post/bang-wan/</id>
+        <link href="https://zisfeng.github.io/post/bang-wan/">
+        </link>
+        <updated>2021-03-03T09:53:34.000Z</updated>
+        <content type="html"><![CDATA[<p>很惬意的词汇，在这个车水马龙的时代里，好像少了点什么。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://zisfeng.github.io/post/ni-hao/</id>
+        <link href="https://zisfeng.github.io/post/ni-hao/">
+        </link>
+        <updated>2021-03-03T08:42:10.000Z</updated>
+        <content type="html"><![CDATA[<p>永远相信美好的事情即将发生！</p>
+]]></content>
+    </entry>
+</feed>
